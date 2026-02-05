@@ -12,10 +12,13 @@ is correct, too high, or too low.
 You can incorporate additional details as follows:
 
 5. Limit the number of attempts the user has to guess the number.
+ 
 6. Add the option for multiple rounds, allowing the user to play again.
+  
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-8. explanation:
+
+ explanation:
 
 Random class is used to generate a random number between 1 and 100.
 
